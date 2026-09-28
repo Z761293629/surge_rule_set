@@ -15,3 +15,5 @@ DOMAIN,api.ipify.org
 DOMAIN,icanhazip.com
 DOMAIN,ifconfig.me
 DOMAIN,ip.net.coffee
+IP-CIDR,185.180.19.82/32,no-resolve
+IP-CIDR,147.93.172.146/32,no-resolve

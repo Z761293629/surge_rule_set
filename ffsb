@@ -1,0 +1,17 @@
+PROCESS-NAME,ffsb
+PROCESS-NAME,ffsb-service
+PROCESS-NAME,ffsb.exe
+PROCESS-NAME,ffsb-service.exe
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,join.fufeishangban.com
+DOMAIN-SUFFIX,ffsb.sg
+DOMAIN,api.ipify.org
+DOMAIN,icanhazip.com
+DOMAIN,ifconfig.me
+DOMAIN,ip.net.coffee
